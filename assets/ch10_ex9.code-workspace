@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../visual studio code/ar-vr-using-webxr-api-main/ar-vr-using-webxr-api-main/ch10_ex9"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ehsannura.github.io"
+	}
+}
